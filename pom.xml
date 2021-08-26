@@ -6,7 +6,12 @@
 
   <groupId>com.allen</groupId>
   <artifactId>itstack-mutilthread</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>itstack-mutilthread-01</module>
+    <module>itstack-mutilthread-twoparse</module>
+  </modules>
 
   <name>itstack-mutilthread</name>
 
